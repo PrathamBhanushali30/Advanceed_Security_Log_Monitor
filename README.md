@@ -17,6 +17,7 @@ Provides a real-time web dashboard to view detections
 
 *Clone the repository:*
 **git clone https://github.com/PrathamBhanushali30/Advanced_log_monitoring.git**
+
 **cd Advanced-Security-Log-Monitor**
 
 
