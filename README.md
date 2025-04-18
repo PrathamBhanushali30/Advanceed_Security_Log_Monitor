@@ -15,26 +15,26 @@ Provides a real-time web dashboard to view detections
 # 🛠️ Installation
 Clone the repository:
 
- # git clone https://github.com/PrathamBhanushali30/Advanced_log_monitoring.git
+_ git clone https://github.com/PrathamBhanushali30/Advanced_log_monitoring.git
 
- # cd Advanced-Security-Log-Monitor
+_ cd Advanced-Security-Log-Monitor
 
 
 Install dependencies:
 
- # pip install -r requirements.txt
+pip install -r requirements.txt
 
 
 # ▶️ Usage
 
 Run the detection engine:
 
- # python detection_engine.py
+python detection_engine.py
 
 
 Start the dashboard server:
 
- # python dashboard/app.py
+python dashboard/app.py
 
 
 # 📡 Alerts & Actions
